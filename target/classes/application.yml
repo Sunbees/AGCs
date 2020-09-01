@@ -1,6 +1,0 @@
-server:
-  servlet:
-    encoding:
-      force: true
-      charset: utf-8
-      enabled: true
